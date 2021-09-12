@@ -26,7 +26,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://plex.tv" className={styles.card}>
+          <a href="https://app.plex.tv/desktop/#!/media/tv.plex.provider.vod?source=movies&pageType=list&key=%2Flibrary%2Fchannels%2F60ff11ea6ca7e6002c03ab95&context=library%3Acontent.channels~0~6" className={styles.card}>
             <Image
               src="/plex.png"
               alt="Plex Logo"
